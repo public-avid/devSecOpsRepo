@@ -136,3 +136,4 @@ resource "azurerm_sql_firewall_rule" "test" {
   server_name         = "sjhgd"
   start_ip_address    = "0.0.0.0"
   end_ip_address      = "10.0.17.62"
+}
